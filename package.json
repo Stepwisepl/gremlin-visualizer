@@ -18,7 +18,7 @@
     "react-dom": "^17.0.2",
     "react-json-to-table": "^0.1.5",
     "react-redux": "^7.2.6",
-    "react-scripts": "^3.2.0",
+    "react-scripts": "^5.0.1",
     "redux": "^4.1.2",
     "redux-logger": "^3.0.6",
     "vis-network": "^6.4.4"
